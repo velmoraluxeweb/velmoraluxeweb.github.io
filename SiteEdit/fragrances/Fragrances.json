@@ -3,7 +3,7 @@
     {
       "id": "fragrances-001",
       "image": "/SiteEdit/fragrances/asad_hand.jpeg",
-      "gallery": [ "asad_ingredients.jpg" ]
+      "gallery": [ "/SiteEdit/fragrances/asad_ingredients.jpg" ]
     }
   ],
   "categoryPageStyle": {
