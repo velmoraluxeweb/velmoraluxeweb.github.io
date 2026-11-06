@@ -272,9 +272,8 @@ html{background:hsl(var(--gf-foot-bg,var(--foreground)))}
 
 /* 3. Header logo images (replace the "G" circle + text) */
 .brand-lockup{gap:.55rem}
-.brand-logo-circle{display:block;height:3.4rem;width:auto}
 .brand-logo-word{display:block;height:4.1rem;width:auto}
-@media(max-width:700px){.brand-logo-circle{height:3rem}.brand-logo-word{height:3.6rem}}
+@media(max-width:700px){.brand-logo-word{height:3.6rem}}
 
 /* 4. Category cards framed by the vine ornaments */
 .category-tile{min-height:0;aspect-ratio:4/5}
