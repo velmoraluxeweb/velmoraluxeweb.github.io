@@ -9,6 +9,10 @@
       "id": "fragrances-002",
       "image": "/SiteEdit/fragrances/red_diamond.avif",
       "gallery": [ "/SiteEdit/fragrances/red_diamond_hand.jpeg" ]
+    },
+    {
+      "id": "fragrances-003",
+      "image": "/SiteEdit/fragrances/aqua_21.jpeg"
     }
   ],
   "categoryPageStyle": {
