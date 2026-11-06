@@ -1,0 +1,30 @@
+[
+  {
+    "folder": "accessories",
+    "file": "Accessories.json"
+  },
+  {
+    "folder": "makeup",
+    "file": "Makeup.json"
+  },
+  {
+    "folder": "fragrances",
+    "file": "Fragrances.json"
+  },
+  {
+    "folder": "hair-care",
+    "file": "Hair-Care.json"
+  },
+  {
+    "folder": "face-care",
+    "file": "Face-Care.json"
+  },
+  {
+    "folder": "body-care",
+    "file": "Body-Care.json"
+  },
+  {
+    "folder": "test",
+    "file": "Test.json"
+  }
+]

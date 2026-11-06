@@ -1,0 +1,13 @@
+{
+  "slug": "test",
+  "label": "Test products",
+  "title": "Test products",
+  "titleColor": "default",
+  "backgroundColor": "default",
+  "description": "Labelled for cart and inventory testing",
+  "image": "/SiteEdit/test/noImage-error-test.jpg",
+  "folder": "test",
+  "productsFile": "/SiteEdit/test/Test.json",
+  "backgroundColorOpacity": "default",
+  "titleColorOpacity": "default"
+}

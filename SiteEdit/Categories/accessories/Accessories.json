@@ -1,0 +1,13 @@
+{
+  "slug": "accessories",
+  "label": "Accessories",
+  "title": "Accessories",
+  "titleColor": "default",
+  "backgroundColor": "default",
+  "description": "Little details that make the whole look feel like yours.",
+  "image": "/SiteEdit/accessories/gold_necklace.jpg",
+  "folder": "accessories",
+  "productsFile": "/SiteEdit/accessories/Accessories.json",
+  "backgroundColorOpacity": "default",
+  "titleColorOpacity": "default"
+}

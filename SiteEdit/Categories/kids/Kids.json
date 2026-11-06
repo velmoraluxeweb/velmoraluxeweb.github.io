@@ -1,0 +1,13 @@
+{
+  "slug": "kids",
+  "label": "Kids",
+  "title": "Kids",
+  "titleColor": "default",
+  "backgroundColor": "default",
+  "description": "Little things for the little ones.",
+  "image": "/SiteEdit/kids/ptop_bskirt.jpg",
+  "folder": "Kids",
+  "productsFile": "/SiteEdit/kids/Kids.json",
+  "backgroundColorOpacity": "default",
+  "titleColorOpacity": "default"
+}

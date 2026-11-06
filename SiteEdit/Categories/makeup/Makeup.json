@@ -1,0 +1,13 @@
+{
+  "slug": "makeup",
+  "label": "Makeup",
+  "title": "Makeup",
+  "titleColor": "default",
+  "backgroundColor": "default",
+  "description": "Blush tones in beautiful colours.",
+  "image": "/SiteEdit/makeup/makeup-cover.jpg",
+  "folder": "makeup",
+  "productsFile": "/SiteEdit/makeup/Makeup.json",
+  "backgroundColorOpacity": "default",
+  "titleColorOpacity": "default"
+}

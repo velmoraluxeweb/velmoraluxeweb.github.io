@@ -1,0 +1,17 @@
+{
+  "slug": "body-care",
+  "label": "Body Wash & Lotions",
+  "title": "Body Wash & Lotions",
+  "titleColor": "default",
+  "backgroundColor": "default",
+  "description": "To anoint the soul's temple",
+  "image": "/SiteEdit/body-care/body_care_example.jpeg",
+  "subcategories": [
+    { "key": "body-wash", "label": "Body Wash" },
+    { "key": "body-lotion", "label": "Body Lotion" }
+  ],
+  "folder": "body-care",
+  "productsFile": "/SiteEdit/body-care/Body-Care.json",
+  "backgroundColorOpacity": "default",
+  "titleColorOpacity": "default"
+}

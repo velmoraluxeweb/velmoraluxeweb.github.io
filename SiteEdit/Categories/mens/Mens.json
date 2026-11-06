@@ -1,0 +1,13 @@
+{
+  "slug": "mens",
+  "label": "For Men",
+  "title": "For Men",
+  "titleColor": "default",
+  "backgroundColor": "default",
+  "description": "From comfortable fits to flashy styles.",
+  "image": "/SiteEdit/mens/pleated_wide_leg_trousers-burgundy.jpeg",
+  "folder": "mens",
+  "productsFile": "/SiteEdit/mens/Mens.json",
+  "backgroundColorOpacity": "default",
+  "titleColorOpacity": "default"
+}
