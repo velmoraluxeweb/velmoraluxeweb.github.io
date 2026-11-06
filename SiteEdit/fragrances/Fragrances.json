@@ -4,6 +4,11 @@
       "id": "fragrances-001",
       "image": "/SiteEdit/fragrances/asad_hand.jpeg",
       "gallery": [ "/SiteEdit/fragrances/asad_ingredients.jpg" ]
+    },
+    {
+      "id": "fragrances-002",
+      "image": "/SiteEdit/fragrances/red_diamond.avif",
+      "gallery": [ "/SiteEdit/fragrances/red_diamond_hand.jpeg" ]
     }
   ],
   "categoryPageStyle": {
