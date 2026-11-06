@@ -2,7 +2,8 @@
   "products": [
     {
       "id": "fragrances-001",
-      "image": "/SiteEdit/fragrances/fragrance_example.jpg"
+      "image": "/SiteEdit/fragrances/asad_hand.jpeg",
+      "gallery": [ "asad_ingredients.jpg" ]
     }
   ],
   "categoryPageStyle": {
