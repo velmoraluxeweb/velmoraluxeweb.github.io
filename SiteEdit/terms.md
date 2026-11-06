@@ -2,7 +2,7 @@ Website: https://velmoraluxeweb.github.io
 
 Business Location: Asaba, Delta State, Nigeria
 
-Welcome to Velmora Luxe! We are a small, independent boutique based in Asaba, Delta State, Nigeria, offering clothing, accessories, and other fashion and beauty products.
+Welcome to Velmora Luxe! We are a small, independent boutique based in Asaba, Delta State, Nigeria, offering perfumes, body sprays, hair products, body washes, and other beauty products.
 
 We want every customer to enjoy a safe, transparent, and pleasant shopping experience.
 
