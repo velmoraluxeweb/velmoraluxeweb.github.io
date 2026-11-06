@@ -1,12 +1,12 @@
-Website: https://gracefulfashion.com.ng
+Website: https://velmoraluxeweb.github.io
 
 Business Location: Asaba, Delta State, Nigeria
 
 ## 1. Introduction
 
-Welcome to Graceful Fashion.
+Welcome to Velmora Luxe.
 
-Graceful Fashion is an independent clothing, fashion, and accessories boutique based in Asaba, Delta State, Nigeria.
+Velmora Luxe is an independent boutique based in Asaba, Delta State, Nigeria.
 
 We respect your privacy and are committed to protecting the personal information you share with us when browsing our website, placing an order, making a payment, or contacting our business.
 
@@ -18,9 +18,9 @@ By using our website, you acknowledge that this Privacy Policy is available to e
 
 ## 2. Who Is Responsible for Your Information?
 
-Graceful Fashion is the data controller responsible for determining the purposes and means of processing customer information collected through our store.
+Velmora Luxe is the data controller responsible for determining the purposes and means of processing customer information collected through our store.
 
-Business Name: Graceful Fashion
+Business Name: Velmora Luxe
 
 Legal Business Name: Pending legal filings
 
@@ -28,7 +28,7 @@ Business Location: Asaba, Delta State, Nigeria
 
 Privacy Contact Email: gg2134590@gmail.com
 
-Website: https://gracefulfashion.com.ng
+Website: https://velmoraluxeweb.github.io
 
 Customers may contact us using the information above to ask questions or exercise their data protection rights.
 
@@ -62,7 +62,7 @@ This information helps us arrange deliveries in locations where conventional str
 
 ### C. Order Information
 
-When you purchase from Graceful Fashion, we collect information relating to your transaction, including:
+When you purchase from Velmora Luxe, we collect information relating to your transaction, including:
 
 - Products purchased
 - Selected sizes and product options
@@ -76,9 +76,9 @@ When you purchase from Graceful Fashion, we collect information relating to your
 
 Payments are processed using Paystack, a third-party payment service provider.
 
-Graceful Fashion receives or processes information necessary to initialise and verify payments, identify transactions, and update order records.
+Velmora Luxe receives or processes information necessary to initialise and verify payments, identify transactions, and update order records.
 
-We do not require customers to provide their complete payment card details directly to Graceful Fashion.
+We do not require customers to provide their complete payment card details directly to Velmora Luxe.
 
 Payment information entered into Paystack's payment interface is handled according to Paystack's own privacy and security practices.
 
@@ -115,7 +115,7 @@ We do not use customer information for purposes incompatible with those explaine
 
 ## 5. How We Share Information
 
-Graceful Fashion may share limited personal information with trusted service providers when necessary to operate our business.
+Velmora Luxe may share limited personal information with trusted service providers when necessary to operate our business.
 
 These may include:
 
@@ -151,7 +151,7 @@ We may also disclose information where required by applicable law, a lawful regu
 
 ## 6. International Data Transfers
 
-Some technology providers supporting Graceful Fashion may process or store information outside Nigeria.
+Some technology providers supporting Velmora Luxe may process or store information outside Nigeria.
 
 Where personal information is transferred internationally, we will take steps required by Nigerian data protection law to ensure an appropriate level of protection.
 
@@ -173,7 +173,7 @@ Customers may manage browser storage through their device or browser settings. D
 
 ## 8. Marketing Communications
 
-Graceful Fashion may occasionally offer promotional updates, new product announcements, or special offers.
+Velmora Luxe may occasionally offer promotional updates, new product announcements, or special offers.
 
 Where consent is required, we will request your permission before sending these messages.
 
@@ -199,7 +199,7 @@ Once information is no longer needed, we will securely delete, anonymise, or oth
 
 ## 10. How We Protect Your Information
 
-Graceful Fashion takes reasonable technical and organisational measures to protect personal information against unauthorised access, alteration, disclosure, loss, or misuse.
+Velmora Luxe takes reasonable technical and organisational measures to protect personal information against unauthorised access, alteration, disclosure, loss, or misuse.
 
 These measures may include:
 
@@ -239,7 +239,7 @@ We will respond within the timeframes required by applicable law.
 
 ## 12. Automated Processing and Decisions
 
-Graceful Fashion uses automated processes to support shopping cart calculations, inventory checks, payment verification, and order status updates.
+Velmora Luxe uses automated processes to support shopping cart calculations, inventory checks, payment verification, and order status updates.
 
 These processes help us operate the store efficiently.
 
@@ -249,7 +249,7 @@ If we introduce such processing, we will provide the additional information and 
 
 ## 13. Children's Privacy
 
-Graceful Fashion sells products that may be intended for children, but purchases and payments through our website are intended to be completed by adults or persons legally authorised to make the transaction.
+Velmora Luxe sells products that may be intended for children, but purchases and payments through our website are intended to be completed by adults or persons legally authorised to make the transaction.
 
 We do not knowingly collect personal information directly from children for independent shopping accounts or marketing purposes.
 
@@ -273,7 +273,7 @@ These services may operate under their own privacy policies.
 
 We encourage customers to review the privacy notices of third-party services before providing personal information directly to them.
 
-Graceful Fashion remains responsible for its own obligations under applicable data protection law.
+Velmora Luxe remains responsible for its own obligations under applicable data protection law.
 
 ## 16. Changes to This Privacy Policy
 
@@ -285,7 +285,7 @@ Where required by law, we will provide additional notice or obtain consent befor
 
 ## 17. Complaints and Regulatory Rights
 
-If you have concerns about how Graceful Fashion handles your personal information, please contact us first so we can investigate and attempt to resolve the issue.
+If you have concerns about how Velmora Luxe handles your personal information, please contact us first so we can investigate and attempt to resolve the issue.
 
 You also have the right to lodge a complaint with the Nigeria Data Protection Commission.
 
@@ -299,11 +299,11 @@ We will cooperate with lawful regulatory investigations and comply with applicab
 
 For privacy questions, requests, or complaints:
 
-Graceful Fashion
+Velmora Luxe
 
 Asaba, Delta State, Nigeria
 
-Website: https://gracefulfashion.com.ng
+Website: https://velmoraluxeweb.github.io
 
 Email: gg2134590@gmail.com
 
@@ -311,4 +311,4 @@ Telephone / WhatsApp: +2347034981960
 
 We value the trust our customers place in us and are committed to treating their personal information with care and respect.
 
-Thank you for choosing Graceful Fashion.
+Thank you for choosing Velmora Luxe.

@@ -1,8 +1,8 @@
-Website: https://gracefulfashion.com.ng
+Website: https://velmoraluxeweb.github.io
 
 Business Location: Asaba, Delta State, Nigeria
 
-Welcome to Graceful Fashion! We are a small, independent fashion boutique based in Asaba, Delta State, Nigeria, offering clothing, accessories, and other fashion and beauty products.
+Welcome to Velmora Luxe! We are a small, independent boutique based in Asaba, Delta State, Nigeria, offering clothing, accessories, and other fashion and beauty products.
 
 We want every customer to enjoy a safe, transparent, and pleasant shopping experience.
 
@@ -10,7 +10,7 @@ Please read these Terms and Conditions before placing an order. By completing a 
 
 ## 1. Products and Availability
 
-Graceful Fashion makes reasonable efforts to ensure that product descriptions, photographs, sizes, colours, and prices are accurate and up to date.
+Velmora Luxe makes reasonable efforts to ensure that product descriptions, photographs, sizes, colours, and prices are accurate and up to date.
 
 Please note:
 
@@ -27,7 +27,7 @@ We will not substitute a product without your consent.
 
 ## 2. Orders and Payments
 
-All prices displayed on Graceful Fashion are in Nigerian Naira (₦), unless otherwise stated.
+All prices displayed on Velmora Luxe are in Nigerian Naira (₦), unless otherwise stated.
 
 Payments are processed through Paystack, our third-party payment service provider.
 
@@ -44,13 +44,13 @@ We reserve the right to investigate suspected fraudulent transactions and to dec
 
 ## 3. Delivery and Collection
 
-Graceful Fashion initially serves customers within Delta State, Nigeria.
+Velmora Luxe initially serves customers within Delta State, Nigeria.
 
 Delivery charges, availability, and estimated delivery times will be communicated before the customer commits to a delivery charge or completes the relevant purchase.
 
 Delivery times are estimates unless a specific delivery commitment is expressly agreed.
 
-Graceful Fashion will make reasonable efforts to fulfil orders promptly and communicate significant delays.
+Velmora Luxe will make reasonable efforts to fulfil orders promptly and communicate significant delays.
 
 Customers are responsible for providing accurate delivery details, including a working telephone number, area, street information where available, and useful landmarks.
 
@@ -64,8 +64,8 @@ Orders may be delivered to an address supplied by the customer using GIG Logisti
 ### GIG Pickup or Collection:
 Customers may choose an available GIG Logistics collection location and collect their orders according to the carrier's requirements.
 
-### Graceful Fashion Store Pickup:
-Where available, customers may arrange to collect their purchases directly from the designated Graceful Fashion pickup location in Asaba.
+### Velmora Luxe Store Pickup:
+Where available, customers may arrange to collect their purchases directly from the designated Velmora Luxe pickup location in Asaba.
 
 ## 4. Returns and Exchanges
 
@@ -78,7 +78,7 @@ Customers may request a return or exchange when:
 - A product differs materially from its description.
 - A return is otherwise permitted under applicable Nigerian consumer protection law.
 
-For change-of-mind returns, customers should contact Graceful Fashion within 30 days after receiving the product.
+For change-of-mind returns, customers should contact Velmora Luxe within 30 days after receiving the product.
 
 Where applicable, returned items should be unused, in good condition, and accompanied by their original tags and packaging where reasonably possible.
 
@@ -90,7 +90,7 @@ Nothing in these Terms and Conditions limits customers' rights under the Federal
 
 ## 5. Refunds
 
-Where a refund is approved or required by law, Graceful Fashion will arrange repayment through an appropriate payment method.
+Where a refund is approved or required by law, Velmora Luxe will arrange repayment through an appropriate payment method.
 
 Refunds may be provided when:
 
@@ -100,13 +100,13 @@ Refunds may be provided when:
 
 Refund processing times may depend on the payment provider and receiving financial institution.
 
-Graceful Fashion will communicate the status of refunds and process them within the timeframe required by applicable law.
+Velmora Luxe will communicate the status of refunds and process them within the timeframe required by applicable law.
 
 Where a product is defective, unsafe, or incorrectly supplied, return shipping responsibilities will be determined in accordance with applicable consumer protection law.
 
 ## 6. Order Cancellations
 
-Customers who wish to cancel an order should contact Graceful Fashion as soon as possible.
+Customers who wish to cancel an order should contact Velmora Luxe as soon as possible.
 
 Where an order has not yet been dispatched, we will review the cancellation request and arrange any refund due under applicable law.
 
@@ -123,11 +123,11 @@ Customers agree to:
 - Avoid fraudulent purchases or misuse of payment services.
 - Communicate respectfully with store representatives and delivery personnel.
 
-Graceful Fashion may restrict misuse of its services where reasonably necessary and legally permitted.
+Velmora Luxe may restrict misuse of its services where reasonably necessary and legally permitted.
 
 ## 8. Customer Privacy and Information
 
-To process orders and arrange deliveries, Graceful Fashion may collect customer information including:
+To process orders and arrange deliveries, Velmora Luxe may collect customer information including:
 
 - Name and email address.
 - Telephone number.
@@ -143,17 +143,17 @@ Customer information will be handled in accordance with applicable Nigerian data
 
 ## 9. Third-Party Services
 
-Graceful Fashion uses third-party services to support website operations, payments, communications, and deliveries.
+Velmora Luxe uses third-party services to support website operations, payments, communications, and deliveries.
 
 These may include Paystack and GIG Logistics.
 
 While we work with service providers to deliver a reliable shopping experience, certain services may be subject to the providers' own terms and operating conditions.
 
-Graceful Fashion remains responsible for its own legal obligations to customers. The use of a third-party provider does not remove rights or remedies available under Nigerian law.
+Velmora Luxe remains responsible for its own legal obligations to customers. The use of a third-party provider does not remove rights or remedies available under Nigerian law.
 
 ## 10. Website Content and Intellectual Property
 
-Unless otherwise indicated, Graceful Fashion's original branding, logos, product photographs, written descriptions, and website content belong to Graceful Fashion or are used with appropriate permission.
+Unless otherwise indicated, Velmora Luxe's original branding, logos, product photographs, written descriptions, and website content belong to Velmora Luxe or are used with appropriate permission.
 
 Customers may browse and use the website for personal shopping purposes.
 
@@ -161,7 +161,7 @@ Unauthorised commercial copying, redistribution, or misuse of protected content 
 
 ## 11. Website Availability
 
-We aim to keep the Graceful Fashion website accessible and functioning correctly.
+We aim to keep the Velmora Luxe website accessible and functioning correctly.
 
 However, occasional interruptions may occur because of maintenance, technical faults, or third-party service disruptions.
 
@@ -171,7 +171,7 @@ We will investigate reported issues and take reasonable steps to resolve them.
 
 ## 12. Limitation of Liability
 
-Graceful Fashion will not be responsible for losses caused solely by circumstances beyond its reasonable control, to the extent permitted by law.
+Velmora Luxe will not be responsible for losses caused solely by circumstances beyond its reasonable control, to the extent permitted by law.
 
 Nothing in these terms excludes or restricts liability for fraud, negligence, defective products, misrepresentation, or any other responsibility that cannot lawfully be excluded.
 
@@ -179,7 +179,7 @@ Customers retain all rights and remedies provided by applicable Nigerian law.
 
 ## 13. Complaints and Dispute Resolution
 
-If a customer experiences a problem with an order, we encourage them to contact Graceful Fashion so we can investigate and attempt to resolve the matter fairly.
+If a customer experiences a problem with an order, we encourage them to contact Velmora Luxe so we can investigate and attempt to resolve the matter fairly.
 
 Please provide the order reference, a description of the issue, and relevant photographs where appropriate.
 
@@ -189,7 +189,7 @@ Customers retain the right to seek assistance from the Federal Competition and C
 
 ## 14. Changes to These Terms
 
-Graceful Fashion may update these Terms and Conditions to reflect changes in business operations, delivery arrangements, payment methods, or legal requirements.
+Velmora Luxe may update these Terms and Conditions to reflect changes in business operations, delivery arrangements, payment methods, or legal requirements.
 
 The latest version will be published on our website with its effective date.
 
@@ -201,20 +201,20 @@ These Terms and Conditions are governed by the applicable laws of the Federal Re
 
 Any dispute will be addressed through the appropriate legal or regulatory channels, without restricting customers' statutory rights.
 
-## 16. Contact Graceful Fashion
+## 16. Contact Velmora Luxe
 
 For questions about products, orders, payments, deliveries, returns, or refunds, please contact:
 
-Graceful Fashion
+Velmora Luxe
 
 Asaba, Delta State, Nigeria
 
-Website: https://gracefulfashion.com.ng
+Website: https://velmoraluxeweb.github.io
 
 Customer Support Email: gg2134590@gmail.com
 
 Telephone / WhatsApp: +2347034981960
 
-Thank you for shopping with Graceful Fashion.
+Thank you for shopping with Velmora Luxe.
 
 Style, confidence, and care — from our boutique to you.

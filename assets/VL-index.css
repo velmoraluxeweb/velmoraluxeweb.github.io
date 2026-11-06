@@ -202,7 +202,7 @@
 .cart-page .size-dropdown-trigger:disabled{opacity:.55;cursor:not-allowed}
 .cart-page .gf-dropdown{margin-top:0}
 
-/* Graceful Fashion: stock + order-limit additions */
+/* Velmora Luxe: stock + order-limit additions */
 .size-button:disabled{opacity:.4;cursor:not-allowed;text-decoration:line-through;background:transparent;border-color:hsl(var(--border));color:hsl(var(--muted-foreground))}
 .size-button:disabled:hover{background:transparent;border-color:hsl(var(--border));color:hsl(var(--muted-foreground))}
 .size-dropdown-option:disabled{opacity:.4;cursor:not-allowed;text-decoration:line-through;background:transparent}
@@ -258,7 +258,7 @@ body{white-space:pre-wrap}
 /* Temporarily Unavailable on a home-page category tile: a small chip that stays readable over the photo */
 .category-tile small.gf-tile-unavailable{z-index:2;padding:.3rem .5rem;line-height:1.3;max-width:calc(100% - 2.2rem)}
 
-/* ===== Graceful Fashion: presentation fixes (Oct 2026) ===== */
+/* ===== Velmora Luxe: presentation fixes (Oct 2026) ===== */
 /* 1. Blank bands above the top bar / below the footer.
       "body{white-space:pre-wrap}" made the line breaks around <div id="root"> in
       index.html render as empty lines. Keep pre-wrap for the app, not for body. */
@@ -285,7 +285,7 @@ html{background:hsl(var(--gf-foot-bg,var(--foreground)))}
 .category-tile img{top:33%;left:14%;right:auto;bottom:auto;width:72%;height:51%}
 .category-tile small.gf-tile-unavailable{bottom:17%;left:50%;transform:translateX(-50%);text-align:center;white-space:normal;width:max-content;max-width:86%}
 
-/* ===== Graceful Fashion: header, scrolling and error text (Oct 2026) ===== */
+/* ===== Velmora Luxe: header, scrolling and error text (Oct 2026) ===== */
 /* Floating header: Home.json floatingHeader.enabled = true. The dark top bar and the
    white logo/links bar move together. --gf-header-h is measured by the script. */
 .gf-float-header .gf-header{position:sticky;top:0;z-index:30}

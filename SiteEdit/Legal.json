@@ -1,7 +1,7 @@
 {
   "$comment": "SITE EDIT FILE FOR THE LEGAL PAGES (Terms and Conditions, Privacy Policy). The words of each document live in their own .md file in this SiteEdit folder; this file names those files and styles both pages the same way. Groups run from the top of the page downward. Inside a group: the words first, then that text's font and font size, then its colour with its opacity on the very next line. Font: 'default' keeps the site's look, or a name from the font list in the README. Font size: 'default', or a size such as 1.1rem. Keep every comma and quotation mark; check the file with a JSON validator before saving.",
   "pages": {
-    "$comment": "ONE ENTRY PER LEGAL PAGE. The entry's name is the page's web address: terms is gracefulfashion.com.ng/terms, privacy is gracefulfashion.com.ng/privacy, and it is also the name used in links written as [Words](terms). Use small letters and dashes only, and don't rename one that is already linked. titleText: the big title. file: the .md file in this SiteEdit folder. effectiveDateText and lastUpdatedText show under the title; leave one as \"\" to hide it. When the law or the business changes, edit the .md file and update the date here. To add a page (for example a returns policy), copy a whole { ... } entry, give it a new name and file, then link to it with [Returns Policy](returns).",
+    "$comment": "ONE ENTRY PER LEGAL PAGE. The entry's name is the page's web address: terms is velmoraluxeweb.github.io/terms, privacy is velmoraluxeweb.github.io/privacy, and it is also the name used in links written as [Words](terms). Use small letters and dashes only, and don't rename one that is already linked. titleText: the big title. file: the .md file in this SiteEdit folder. effectiveDateText and lastUpdatedText show under the title; leave one as \"\" to hide it. When the law or the business changes, edit the .md file and update the date here. To add a page (for example a returns policy), copy a whole { ... } entry, give it a new name and file, then link to it with [Returns Policy](returns).",
     "terms": {
       "titleText": "Terms and Conditions",
       "file": "terms.md",
@@ -17,7 +17,7 @@
   },
   "heading": {
     "$comment": "THE BAND AT THE TOP OF BOTH PAGES: a small label, the page title, then the dates. Leave smallLabelText as \"\" to hide the label.",
-    "smallLabelText": "Graceful Fashion",
+    "smallLabelText": "Velmora Luxe",
     "smallLabelFont": "default",
     "smallLabelFontSize": "default",
     "smallLabelColor": "#b54863",

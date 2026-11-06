@@ -108,7 +108,7 @@
     "backgroundOpacity": 0.878,
     "bottomLineColor": "#e5cfd5",
     "bottomLineOpacity": 1,
-    "$commentLogos": "THE TWO LOGO PICTURES at the left of this bar. circleLogoImage is the round G logo; brandLogoImage is the Graceful Fashion wordmark beside it. Each is a path to a picture in the repo, starting with / (for example /assets/gf_circle_logo_clear.png). Transparent PNGs look best. The site shows exactly the picture named here, so check the spelling of the path.",
+    "$commentLogos": "THE TWO LOGO PICTURES at the left of this bar. circleLogoImage is the round G logo; brandLogoImage is the Velmora Luxe wordmark beside it. Each is a path to a picture in the repo, starting with / (for example /assets/gf_circle_logo_clear.png). Transparent PNGs look best. The site shows exactly the picture named here, so check the spelling of the path.",
     "circleLogoImage": "/assets/gf_circle_logo_clear.png",
     "brandLogoImage": "/assets/gb_brand_logo-clear.png",
     "links": {
@@ -186,7 +186,7 @@
     "introColor": "#806670",
     "introOpacity": 1,
     "image": "/assets/header_pink_rose1.jpg",
-    "imageAlt": "A blush pink rose, the signature flower of Graceful Fashion",
+    "imageAlt": "A blush pink rose, the signature flower of Velmora Luxe",
     "portraitFrameBackgroundColor": "#f0e0e4",
     "portraitFrameBackgroundOpacity": 1,
     "noteText": "Beauty for the feeling.",
@@ -198,7 +198,7 @@
     "noteBackgroundOpacity": 0.902,
     "noteBorderColor": "#e5cfd5",
     "noteBorderOpacity": 1,
-    "noteSmallText": "Graceful Fashion · 2026",
+    "noteSmallText": "Velmora Luxe · 2026",
     "noteSmallFont": "default",
     "noteSmallFontSize": "default",
     "noteSmallColor": "#b54863",
@@ -552,7 +552,7 @@
     "titleEmphasisColor": "#b54863",
     "titleEmphasisOpacity": 1,
     "paragraphs": [
-      "At Graceful Fashion, we believe getting dressed can be a small, lovely act of self-trust. We curate soft, elegant pieces in fregrent scents, hearty musks, and elegant hair-care products that meet you where you are.",
+      "At Velmora Luxe, we believe getting dressed can be a small, lovely act of self-trust. We curate soft, elegant pieces in fregrent scents, hearty musks, and elegant hair-care products that meet you where you are.",
       "We are a personal boutique label in Asaba, Delta State — here for the days you want to feel polished, comfortable, confident, or simply a bit more like yourself."
     ],
     "paragraphsFont": "default",
@@ -565,7 +565,7 @@
     "signatureColor": "#b54863",
     "signatureOpacity": 1,
     "image": "/assets/header_pink_rose2.jpg",
-    "imageAlt": "A pink rose beside the Graceful Fashion story",
+    "imageAlt": "A pink rose beside the Velmora Luxe story",
     "photoPanelBackgroundColor": "#f4dfe6",
     "photoPanelBackgroundOpacity": 1,
     "tagText": "From Asaba, with care",
@@ -630,7 +630,7 @@
   },
   "footer": {
     "$comment": "THE FOOTER AT THE BOTTOM OF EVERY PAGE (all pages use these words and colours). legalText is the line under the name: words written as [Words](terms) become a link to that page of Legal.json (terms, privacy). Keep the square and round brackets exactly. On the cart page these links open in a new tab, so a half-filled checkout form is not lost. legalColor is the plain words (such as © 2026); legalLinkColor is the link words, and legalLinkHoverColor is the link under a mouse or finger.",
-    "brandText": "Graceful Fashion",
+    "brandText": "Velmora Luxe",
     "brandFont": "default",
     "brandFontSize": "default",
     "brandColor": "#fff8f4",
