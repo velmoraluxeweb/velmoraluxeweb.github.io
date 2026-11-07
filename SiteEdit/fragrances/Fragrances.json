@@ -17,6 +17,11 @@
     {
       "id": "fragrances-004",
       "image": "/SiteEdit/fragrances/be_my_friend.webp"
+    },
+    {
+      "id": "fragrances-005",
+      "image": "/SiteEdit/fragrances/choco_musk_product.webp",
+      "gallery": [ "/SiteEdit/fragrances/choco_musk_scent_profile.webp" ]
     }
   ],
   "categoryPageStyle": {
