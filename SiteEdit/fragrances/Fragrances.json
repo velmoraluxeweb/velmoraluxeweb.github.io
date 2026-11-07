@@ -33,6 +33,10 @@
         { "id": "fragrances-007-black", "image": "/SiteEdit/fragrances/boos-black.jpg", "swatch": "#000000" },
         { "id": "fragrances-007-white", "image": "/SiteEdit/fragrances/boos-white.jpg", "swatch": "#FFFFFF" }
       ]
+    },
+    {
+      "id": "fragrances-008",
+      "image": "/SiteEdit/fragrances/afnan_9pm.webp"
     }
   ],
   "categoryPageStyle": {
