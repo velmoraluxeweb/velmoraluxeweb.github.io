@@ -26,6 +26,13 @@
     {
       "id": "fragrances-006",
       "image": "/SiteEdit/fragrances/24K_white.webp"
+    },
+    {
+      "id": "fragrances-007",
+      "variants": [
+        { "id": "fragrances-007-black", "image": "/SiteEdit/fragrances/boos-black.jpg", "swatch": "#000000" },
+        { "id": "fragrances-007-white", "image": "/SiteEdit/fragrances/boos-white.jpg", "swatch": "#FFFFFF" }
+      ]
     }
   ],
   "categoryPageStyle": {
