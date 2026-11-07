@@ -22,6 +22,10 @@
       "id": "fragrances-005",
       "image": "/SiteEdit/fragrances/choco_musk_product.webp",
       "gallery": [ "/SiteEdit/fragrances/choco_musk_scent_profile.webp" ]
+    },
+    {
+      "id": "fragrances-006",
+      "image": "/SiteEdit/fragrances/24K_white.webp"
     }
   ],
   "categoryPageStyle": {
