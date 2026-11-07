@@ -2,8 +2,8 @@
   "products": [
     {
       "id": "fragrances-001",
-      "image": "/SiteEdit/fragrances/asad_hand.jpeg",
-      "gallery": [ "/SiteEdit/fragrances/asad_ingredients.jpg" ]
+      "image": "/SiteEdit/fragrances/asad_product.webp",
+      "gallery": [ "/SiteEdit/fragrances/asad_hand.jpeg" ]
     },
     {
       "id": "fragrances-002",
@@ -12,7 +12,8 @@
     },
     {
       "id": "fragrances-003",
-      "image": "/SiteEdit/fragrances/aqua_21.jpeg"
+      "image": "/SiteEdit/fragrances/aqua_21_product.webp",
+      "gallery": [ "/SiteEdit/fragrances/aqua_21.jpeg" ]
     },
     {
       "id": "fragrances-004",
