@@ -109,7 +109,7 @@
     "bottomLineColor": "#e5cfd5",
     "bottomLineOpacity": 1,
     "$commentLogos": "THE LOGO PICTURE at the left of this bar: brandLogoImage is the Velmora Luxe logo. It is a path to a picture in the repo, starting with / (for example /assets/VL_logo.png). Transparent PNGs look best. The site shows exactly the picture named here, so check the spelling of the path.",
-    "brandLogoImage": "/assets/VL_logo.png",
+    "brandLogoImage": "/assets/vgc_logo.png",
     "links": {
       "$comment": "THE FOUR LINKS share one font, size and set of colours.",
       "homeText": "Home",
