@@ -140,7 +140,7 @@ A category page can split its products into groups, each with its own heading. H
 ```
 
 - `label` is the heading shoppers see. Change it whenever you like; the formatting tags (`<b>`, `<i>`...) work in it.
-- `key` is small letters, numbers and dashes only. It is also the end of that subcategory's **shareable link**, such as `velmoraluxeweb.github.io/category/hair-care#hair-coloring`, which opens the page at that heading. Once you have shared a link, keep its `key` the same. A link whose `key` no longer exists simply opens the page at the top.
+- `key` is small letters, numbers and dashes only. It is also the end of that subcategory's **shareable link**, such as `velmoragraceful.com.ng/category/hair-care#hair-coloring`, which opens the page at that heading. Once you have shared a link, keep its `key` the same. A link whose `key` no longer exists simply opens the page at the top.
 - A product with no `subcategory` goes in a last group headed **More**. A product whose `subcategory` is not in the list also goes there, and the Vercel logs say which product.
 - A product that is Temporarily Unavailable (a mistake in its CatalogEdit entry) goes in its own group at the very bottom, under More, headed by `unavailableHeadingText`. It has no jump button, and it moves back into its subcategory as soon as the mistake is fixed.
 - A subcategory with no products is not shown, so you can list one before its products arrive.
@@ -242,8 +242,8 @@ Text from these files now keeps every space typed in it, so several spaces in a 
 
 Each legal document is its own file in this folder, so it can be updated on its own when the law or the business changes:
 
-- `terms.md` — Terms and Conditions, shown at velmoraluxeweb.github.io/terms
-- `privacy.md` — Privacy Policy, shown at velmoraluxeweb.github.io/privacy
+- `terms.md` — Terms and Conditions, shown at velmoragraceful.com.ng/terms
+- `privacy.md` — Privacy Policy, shown at velmoragraceful.com.ng/privacy
 - `Legal.json` — names those files, holds each page's title and dates, and the colours, fonts and sizes shared by both pages.
 
 **Writing in the .md files** (GitHub shows the formatting when you open the file there):

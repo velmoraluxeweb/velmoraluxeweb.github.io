@@ -7,7 +7,7 @@
   "currencyLocale": "en-NG",
   "checkoutEnabled": true,
   "testMode": true,
-  "storeName": "Velmora Luxe",
+  "storeName": "Velmora GRACEFUL Concepts",
   "basePalette": {
     "$comment": "BASE COLOURS. Used by anything that does not have its own colour below, including the quantity (+ / -) and Remove buttons. The colour behind the whole page comes from Home.json.",
     "pageBackgroundColor": "#fff8f4",
