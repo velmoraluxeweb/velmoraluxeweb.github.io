@@ -17,6 +17,31 @@
       "id": "body-lotion-001",
       "subcategory": "body-lotion",
       "image": "/SiteEdit/body-care/body_care_example.jpeg"
+    },
+    {
+      "id": "body-lotion-002",
+      "subcategory": "body-lotion",
+      "image": "/SiteEdit/body-care/cosrx_lotion.avif"
+    },
+    {
+      "id": "body-lotion-003",
+      "subcategory": "body-lotion",
+      "image": "/SiteEdit/body-care/cerave_lotion.avif"
+    },
+    {
+      "id": "body-lotion-004",
+      "subcategory": "body-lotion",
+      "image": "/SiteEdit/body-care/arden_cream.avif"
+    },
+    {
+      "id": "body-lotion-005",
+      "subcategory": "body-lotion",
+      "image": "/SiteEdit/body-care/clarins_moist.avif"
+    },
+    {
+      "id": "body-lotion-006",
+      "subcategory": "body-lotion",
+      "image": "/SiteEdit/body-care/clarins_lotion.avif"
     }
   ],
   "categoryPageStyle": {
