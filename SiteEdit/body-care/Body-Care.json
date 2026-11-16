@@ -14,6 +14,39 @@
       ]
     },
     {
+      "id": "body-wash-003",
+      "subcategory": "body-wash",
+      "image": "/SiteEdit/body-care/bioderma_body_wash.avif"
+    },
+    {
+      "id": "body-wash-004",
+      "subcategory": "body-wash",
+      "image": "/SiteEdit/body-care/arden_shower_gel.avif"
+    },
+    {
+      "id": "body-wash-005",
+      "subcategory": "body-wash",
+      "image": "/SiteEdit/body-care/svr_shower_gel.avif"
+    },
+    {
+      "id": "body-wash-006",
+      "subcategory": "body-wash",
+      "image": "/SiteEdit/body-care/svr_wash.avif"
+    },
+    {
+      "id": "body-wash-007",
+      "subcategory": "body-wash",
+      "image": "/SiteEdit/body-care/nuxe_shower_gel.avif"
+    },
+    {
+      "id": "body-wash-008",
+      "subcategory": "body-wash",
+      "variants": [
+        { "id": "body-wash-008-red", "image": "/SiteEdit/body-care/rg_shower_gel-red.avif", "swatch": "#CC1111" },
+        { "id": "body-wash-008-cedar", "image": "/SiteEdit/body-care/rg_shower_gel-cedar.avif", "swatch": "#BAB50E" }
+      ]
+    },
+    {
       "id": "body-lotion-001",
       "subcategory": "body-lotion",
       "image": "/SiteEdit/body-care/body_care_example.jpeg"
